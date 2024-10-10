@@ -7,7 +7,8 @@ nbA = float(input("A : "))
 nbB = float(input("B : "))
 if nbA != 0:
     print(" il existe une seule solution qui vaut (-B/A)")
-else
+else:
+    print()
 
 
 
